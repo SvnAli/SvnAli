@@ -3,6 +3,6 @@
 
 ## Web Developer and Web Designer 🚀!
 - 🌱 I’m currently learning Html & Css & Javascript
-- 👯 I’m looking to collaborate with Web Developer 👩‍💻 and designers 🎨
+- 👯 I’m looking to collaborate with Web Developer and Web Designer 👩‍💻🎨
 - 🤔 I’m looking for help with Web front-end developer
 - ⚡ Fun fact: I love book

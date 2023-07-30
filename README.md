@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Developer and Web Designer**
 
-- 🤝 I’m looking for help with **Frontend and Web Dev and Design**
+- 🤝 I’m looking for help with **Frontend Web Dev and Design**
 
 - 📫 How to reach me **svnali72@gmail.com**
 
